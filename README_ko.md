@@ -12,7 +12,7 @@ MongoDB 는 유연성과 확장성으로 유명한 NoSQL 데이터베이스입�
 
 |   인덱스 | 이름                                                                      | 난이도   | Repo                                                              | 연습                                                                 |
 |----------|---------------------------------------------------------------------------|----------|-------------------------------------------------------------------|----------------------------------------------------------------------|
-|        1 | [MongoDB 퀵 스타트](https://labex.io/ko/courses/quick-start-with-mongodb) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-mongodb) |
+|        1 | [MongoDB 퀵 스타트](https://labex.io/ko/courses/quick-start-with-mongodb) | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-mongodb) |
 
 ## 더 보기
 
