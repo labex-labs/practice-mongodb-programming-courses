@@ -12,7 +12,7 @@ MongoDB は、その柔軟性とスケーラビリティで知られる有名な
 
 |   インデックス | 名前                                                                               | 難易度   | Repo                                                              | 練習                                                                  |
 |----------------|------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
-|              1 | [MongoDB のクイックスタート](https://labex.io/ja/courses/quick-start-with-mongodb) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-mongodb) |
+|              1 | [MongoDB のクイックスタート](https://labex.io/ja/courses/quick-start-with-mongodb) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-mongodb) |
 
 ## その他
 
