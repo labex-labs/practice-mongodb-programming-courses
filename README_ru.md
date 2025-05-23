@@ -12,7 +12,7 @@ MongoDB - это известная NoSQL база данных, признан�
 
 |   Индекс | Название                                                                        | Сложность   | Repo                                                              | Практика                                                                      |
 |----------|---------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|        1 | [Быстрый старт с MongoDB](https://labex.io/ru/courses/quick-start-with-mongodb) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-mongodb) |
+|        1 | [Быстрый старт с MongoDB](https://labex.io/ru/courses/quick-start-with-mongodb) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-mongodb) |
 
 ## Больше
 
