@@ -12,7 +12,7 @@ MongoDB 是一款知名的 NoSQL 数据库，以其灵活性和可扩展性著�
 
 |   序号 | 名称                                                                     | 难度   | Repo                                                              | 练习                                                                |
 |--------|--------------------------------------------------------------------------|--------|-------------------------------------------------------------------|---------------------------------------------------------------------|
-|      1 | [MongoDB 快速入门](https://labex.io/zh/courses/quick-start-with-mongodb) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-mongodb) |
+|      1 | [MongoDB 快速入门](https://labex.io/zh/courses/quick-start-with-mongodb) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-mongodb) |
 
 ## 更多
 
