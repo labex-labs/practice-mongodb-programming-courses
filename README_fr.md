@@ -12,7 +12,7 @@ MongoDB est une base de données NoSQL bien connue, reconnue pour sa flexibilit�
 
 |   Index | Nom                                                                                   | Difficulté   | Repo                                                              | Pratique                                                                    |
 |---------|---------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec MongoDB](https://labex.io/fr/courses/quick-start-with-mongodb) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-mongodb) |
+|       1 | [Démarrage rapide avec MongoDB](https://labex.io/fr/courses/quick-start-with-mongodb) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-mongodb) |
 
 ## Plus
 
