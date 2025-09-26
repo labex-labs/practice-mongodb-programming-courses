@@ -8,11 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/iL7seSYd8jLs.png">
 </div>
 
-MongoDB ist eine bekannte NoSQL-Datenbank, die für ihre Flexibilität und Skalierbarkeit anerkannt ist. Dieser Skill Tree bietet einen umfassenden Lernpfad zur Beherrschung der MongoDB-Administration und -Entwicklung. Er eignet sich sowohl für Anfänger als auch für erfahrene Entwickler und bietet eine klare Roadmap, um dokumentenbasiertes Datenmodellieren, CRUD-Operationen, Indizierung, Aggregation und Performance-Tuning zu verstehen. Durch praktische, nicht-videobasierte Kurse und Übungen sammeln Sie reale Erfahrungen im effektiven Management und der Nutzung von MongoDB-Datenbanken.
+Lernen Sie MongoDB, eine führende NoSQL-Datenbank, die für ihre Flexibilität und Skalierbarkeit bekannt ist. Dieser umfassende Lernpfad bietet eine strukturierte Reihe von MongoDB-Kursen, die für Anfänger konzipiert sind, um die Administration und Entwicklung zu meistern. Die Roadmap deckt wesentliche Themen ab, darunter dokumentenbasierte Datenmodellierung, CRUD-Operationen, Indizierung, Aggregation und Performance-Tuning. Durch praktische, nicht-video-basierte Kurse und Übungen sammeln Sie reale Erfahrungen im effektiven Management und der Nutzung von MongoDB-Datenbanken.
 
-|   Index | Name                                                                             | Schwierigkeit   | Repo                                                              | Übung                                                                    |
-|---------|----------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------|--------------------------------------------------------------------------|
-|       1 | [Schnellstart mit MongoDB](https://labex.io/de/courses/quick-start-with-mongodb) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mongodb) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-mongodb) |
+|   Index | Name                                                                      | Schwierigkeit   | Repo                                                           | Übung                                                                 |
+|---------|---------------------------------------------------------------------------|-----------------|----------------------------------------------------------------|-----------------------------------------------------------------------|
+|       1 | [MongoDB für Anfänger](https://labex.io/de/courses/mongodb-for-beginners) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/mongodb-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/mongodb-for-beginners) |
 
 ## Mehr
 
